@@ -16,6 +16,7 @@ body{
     background-color: white;
     font-size: 20px;
     text-align:center;
+    justify-content: center;
     align-content: space-around;
     padding-top: auto;
     color: blue;
